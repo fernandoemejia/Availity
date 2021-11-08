@@ -6,8 +6,8 @@ Also, the Availity.csv needs to be present in the exercise2 path for it to run  
 3.Cigna
 
 After running exercise two, there should be three csv files.  One for each insurance company.
-humana.csv
-aetna.csv
-cigna.csv
+1. humana.csv
+2. aetna.csv
+3. cigna.csv
 
 All three files shouldn't have any duplicate userIds.
